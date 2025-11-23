@@ -33,7 +33,12 @@
 
 > **重要说明**：以下为第三方提供的在线解析服务，与本项目无关，请谨慎使用。
 
-**解析地址**：https://mscdownload.pages.dev  
+**解析地址**：
+
+https://wyapi.toubiec.cn/
+
+https://mscdownload.pages.dev  
+
 **支持平台**：网易云音乐、QQ音乐等  
 **服务性质**：第三方解析，稳定性与安全性请自行评估
 

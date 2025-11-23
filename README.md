@@ -1,6 +1,9 @@
-# lx-ikun-music-sources             ![GitHub Repo stars](https://img.shields.io/github/stars/Macrohard0001/lx-ikun-music-sources?style=social)
+# LX-IKUN Music Sources 🎵
 
-## 项目简介
+![GitHub Repo stars](https://img.shields.io/github/stars/Macrohard0001/lx-ikun-music-sources?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Macrohard0001/lx-ikun-music-sources?style=social)
+
+## 📖 项目简介
 
 本仓库收集整理 LX Music 与 IKUN Music 相关音源，**仅供个人学习使用，请勿传播**。所有内容均来源于网络，如有侵权请联系删除。
 
@@ -9,8 +12,10 @@
 ## 🎯 快速导航
 
 - [💳 付费音源服务](#-付费音源服务)
-- [🌐 在线解析服务](#-在线解析服务)
+- [🌐 在线解析服务](#-在线解析服务) 
 - [🤝 参与贡献](#-参与贡献)
+- [📚 资源来源](#-资源来源)
+- [⚠️ 重要提醒](#️-重要提醒)
 
 ---
 
@@ -29,17 +34,12 @@
 
 ## 🌐 在线解析服务
 
-**[⬆ 返回导航](#-快速导航)**
-
 > **重要说明**：以下为第三方提供的在线解析服务，与本项目无关，请谨慎使用。
 
 **解析地址**：
-
-https://wyapi.toubiec.cn/
-
-https://mscdownload.pages.dev  
-
-https://jx.chksz.top/
+- https://wyapi.toubiec.cn/
+- https://mscdownload.pages.dev  
+- https://jx.chksz.top/
 
 **支持平台**：网易云音乐、QQ音乐等  
 **服务性质**：第三方解析，稳定性与安全性请自行评估
@@ -48,44 +48,49 @@ https://jx.chksz.top/
 
 ## 💳 付费音源服务
 
-**[⬆ 返回导航](#-快速导航)**
-
 > **重要提示**：以下均为第三方提供的付费音源服务，非本项目开发维护。请谨慎购买，产生的任何后果与本项目无关。
 
 ### 🎧 聆川音源 (by guoyue2010)
-- **价格方案**：
-  - 🏆 永久版：10元
-  - 📅 2026年卡：5元  
-  - 📅 2025年卡：3元
-- **导入链接**：
-  - 主链接：`https://lc.guoyue2010.top/script/lx?key=你的卡密`
-  - 备用链接：`https://lx.xiagua.top/script/lx?key=你的卡密`
+
+**价格方案**：
+- 🏆 永久版：10元
+- 📅 2026年卡：5元  
+- 📅 2025年卡：3元
+
+**导入链接**：
+- 主链接：`https://lc.guoyue2010.top/script/lx?key=你的卡密`
+- 备用链接：`https://lx.xiagua.top/script/lx?key=你的卡密`
 
 ### 🎵 新澜音源 (by 时迁酱)
-- **价格方案**：
-  - 🏆 永久版：8元
-- **导入链接**：
-  - `https://source.shiqianjiang.cn/api/script/lx?key=你的卡密`
+
+**价格方案**：
+- 🏆 永久版：8元
+
+**导入链接**：
+- `https://source.shiqianjiang.cn/api/script/lx?key=你的卡密`
 
 ### 🛒 统一购买平台
-guoyue2010 与时迁酱已达成合作，现可通过以下任一官方渠道购买：
 
+guoyue2010 与时迁酱已达成合作，现可通过以下任一官方渠道购买：
 - 🌐 https://shop.guoyue2010.top
 - 🌐 https://shop.shiqianjiang.cn
 
 ### ⭐ IKUN 音源
-- **价格方案**：
-  - ⏳ 7天体验：3元
-  - 📅 月卡：5元
-  - 📅 年卡：10元
-  - 🏆 永久：20元
-- **官方购买**：https://shop.ikunshare.com/
-- **导入方式**：**邮件获取**（为保护开发者，避免广泛传播）
-  - 请发送邮件询问具体导入链接
+
+**价格方案**：
+- ⏳ 7天体验：3元
+- 📅 月卡：5元
+- 📅 年卡：10元
+- 🏆 永久：20元
+
+**官方购买**：https://shop.ikunshare.com/
+
+**导入方式**：**邮件获取**（为保护开发者，避免广泛传播）
+- 请发送邮件询问具体导入链接
 
 ---
 
-## 📚 资源来源说明
+## 📚 资源来源
 
 本项目的音源通过以下方式收集：
 - 🔍 本人全网搜索整理（过程实属不易 😭）
@@ -99,7 +104,7 @@ guoyue2010 与时迁酱已达成合作，现可通过以下任一官方渠道购
 
 ## 📊 项目关注度
 
-![Star History Chart](https://api.star-history.com/svg?repos=Macrohard0001/lx-ikun-music-sources&type=Date)
+![star history](https://starchart.cc/Macrohard0001/lx-ikun-music-sources.svg)
 
 ---
 

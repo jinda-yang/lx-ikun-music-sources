@@ -102,7 +102,7 @@ guoyue2010 与时迁酱已达成合作，现可通过以下任一官方渠道购
 
 ---
 
-## 📊 项目关注度
+## 📊 Star History
 
 ![star history](https://starchart.cc/Macrohard0001/lx-ikun-music-sources.svg)
 

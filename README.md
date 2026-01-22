@@ -8,6 +8,9 @@
 ## 关于捐赠
  - 本项目为纯公益，但是如果你觉得好用，可以进行捐赠（Buy me a coffee? Or else...）
  - 捐赠请点[这里](https://macrohard0001.github.io/donate.html)跳转详细信息（请放心，自己的GitHub静态页面，并不包含广告）
+### 或者直接 ↓ 这个（谢谢你们：一分钱也是钱啊！）
+<img width="720" height="1080" alt="qrcode_20260121205344" src="https://github.com/user-attachments/assets/a5423e22-f56a-48b7-b9d3-a6cb1c57e0c2" />
+
 
 ## 📜 项目声明
 
